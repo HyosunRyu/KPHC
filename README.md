@@ -39,8 +39,8 @@
 
 ## 4. 모델 사용법 (Model Usage)
 Google colab을 통해 모델 학습과 테스트를 할 수 있는 노트북을 제공합니다.
-### 4.1. 정치적 혐오표현 분류 모델 학습
-KPHC.ipynb
+[정치적 혐오표현 분류 모델 학습](https://colab.research.google.com/github/HyosunRyu/KPHC/blob/main/KPHC.ipynb)
+
 ### 4.2. 정치적 증오선동 분류 모델 학습
 
 ## 5. 결과 (Results)
